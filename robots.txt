@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-dyb10a.ironaxedistilling.com/sitemap.xml
